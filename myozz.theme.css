@@ -1,14 +1,3 @@
-/**
- * @name myozz
- * @author ClearVision Team
- * @version 6.9.0
- * @description Highly customizable and beautiful theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite dHaSxn3
- * @BDEditor Clear Vision
-*/
-
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
@@ -17,7 +6,7 @@
   --success-color: #20B4F7;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://i.imgur.com/LT0Kx4Z.jpeg');
+  --background-image: url('https://github.com/Myozz/discord-theme/blob/main/background.gif');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -52,7 +41,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://i.imgur.com/62Gx1zu.gif');
+  --home-icon: url('https://github.com/Myozz/discord-theme/blob/main/home.gif');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
